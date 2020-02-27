@@ -9,6 +9,5 @@ def add_character(show, name)
   :jetsons => ["George", "Jane", "Judy", "Elroy"]
 }
 
-  BASE_HOA[:chipmunks] = "Dave"
-  BASE_HOA[:third_earthers] = "Snarf"
+  
 end
