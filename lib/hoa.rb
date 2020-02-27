@@ -12,3 +12,5 @@ return BASE_HOA[:chipmunks] << "Dave"
 
 
 end
+  # Write your implementation here
+  # Should return the array of the 'show' argument
